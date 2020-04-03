@@ -4,9 +4,6 @@ let's
 get
 down
 to 
-BRASS TAX. Shall we?
+BRASS TAX: Shall we?
 
 Fibit watch, and my thought process behind making the ideal watch face. 
-
-I took existing repositories of Fitbit clocks
-and picked and chose favorite aspects of them.
