@@ -1,4 +1,4 @@
-My very first reposistory and YES, I am noob!
+My very first reposistory and YES, I am a noob!
 but
 let's
 get
