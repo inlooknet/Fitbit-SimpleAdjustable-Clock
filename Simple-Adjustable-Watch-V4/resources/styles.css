@@ -1,0 +1,60 @@
+.background { viewport-fill: #000000;}
+
+#dateText {
+  font-size: 28;
+  font-family: Seville-Regular;
+  text-length: 450;
+  text-anchor: middle;
+  x: 50%;
+  y: 35%;
+  fill: white;
+}
+
+#hoursMinutesText {
+  font-size: 70;
+  font-family: Seville-Regular;
+  text-length: 350;
+  text-anchor: middle;
+  x: 50%-25;
+  y: 50%+20;
+  fill: white;
+}
+
+#secondsText {
+  font-size: 45;
+  font-family: Seville-Regular;
+  text-length: 350;
+  text-anchor: end;
+  x: 85%+5;
+  y: 50%+20;
+  fill: lime;
+}
+
+#heartRateText {
+  font-size: 24;
+  font-family: Seville-Regular;
+  text-length: 250;
+  text-anchor: start;
+  x: 10%;
+  y: 97%;
+  fill: red;
+}
+
+#HeartIconcolor {
+   fill: red;
+  width: 26;
+  height: 26;
+  x:1%;
+  y:90%;
+}
+
+
+#batteryText {
+  font-size: 26;
+  font-family: Seville-Regular;
+  text-length: 350;
+  text-anchor: end;
+  x: 98%;
+  y: 97%;
+  fill: white;
+}

@@ -1,0 +1,58 @@
+{
+  "fitbit": {
+    "appUUID": "7a7e5e9c-42a7-41db-9251-cb64761998fa",
+    "appType": "clockface",
+    "appDisplayName": "Arcular",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_user_profile",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Arcular"
+      },
+      "ja": {
+        "name": "Arcular"
+      },
+      "ko": {
+        "name": "Arcular"
+      },
+      "nl": {
+        "name": "Arcular"
+      },
+      "sv": {
+        "name": "Arcular"
+      },
+      "zh-cn": {
+        "name": "Arcular"
+      },
+      "zh-tw": {
+        "name": "Arcular"
+      },
+      "es": {
+        "name": "Arcular"
+      },
+      "de": {
+        "name": "Arcular"
+      },
+      "fr": {
+        "name": "Arcular"
+      },
+      "it": {
+        "name": "Arcular"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

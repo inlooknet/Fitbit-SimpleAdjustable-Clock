@@ -1,0 +1,11 @@
+<svg class="background">
+    <arc id="arcSeconds" x="10" y="10" width="100%-20" height="100%-20" fill="#07b2fc"
+      arc-width="15" start-angle="0" sweep-angle="0" />
+  <text id="heartRateText"/>
+  <image id="HeartIconcolor"  href="stat_hr_solid_24px.png" />
+  <text id="dateText"/>
+  <text id="hoursMinutesText"/>
+  <text id="secondsText"/>
+  <text id="heartRateText"/>
+  <text id="batteryText"/>
+</svg>
